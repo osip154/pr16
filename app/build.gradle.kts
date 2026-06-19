@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pr16_mirzakamilov_pr23103"
+    namespace = "com.example.Pr16_Osipov"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.pr16_mirzakamilov_pr23103"
+        applicationId = "com.example.Pr16_Osipov"
         minSdk = 31
         targetSdk = 36
         versionCode = 1
