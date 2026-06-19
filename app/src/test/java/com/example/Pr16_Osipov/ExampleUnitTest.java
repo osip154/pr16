@@ -1,4 +1,4 @@
-package com.example.pr16_mirzakamilov_pr23103;
+package com.example.Pr16_Osipov;
 
 import org.junit.Test;
 
